@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning new technologies, to explore the unknown domains, to learn and to share my knowledge.
 - 🌱 I’m currently learning applied machine learning and deep learning.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 Email : diptobhattacharjee6@gmail.com 
+- 📫 Email : diptobhattacharjee6@gmail.com | [LinkedIn](https://www.linkedin.com/in/dipto-bhattacharjee-160a10205/)
