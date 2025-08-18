@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Dipto Bhattacharjee
-🚀 Backend Developer | Cloud Engineer | Full-Stack Enthusiast
+🚀 Full Stack Developer | Cloud & DevOps Enthusiast
 
 ---
 ## 👨🏻‍💻 A little bit about Me and My Interests
