@@ -1,71 +1,110 @@
-# Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm Dipto Bhattacharjee
+🚀 Backend Developer | Cloud Engineer | Full-Stack Enthusiast
 
-# I am Dipto Bhattacharjee
-
-- 👋 Final year undergrad pursuing engineering with majors in Computer Science.
-- 👀 I like working on Software Development (Backend Website Development), Analytical Thinking and Problem Solving, passionate about learning new technologies, to explore the unknown domains, to learn and share my knowledge.
-- 🌱 I also enjoy working in the fields of Machine Learning, Large Language Models, Natural Language Processing and Data Science.
-- 💞️ Looking to collaborate on open source projects.
-- 📫 Email : diptobhattacharjee6@gmail.com
-
+---
+## 👨🏻‍💻 A little bit about Me and My Interests
+```yaml
+name: Dipto Bhattacharjee
+education: Bachelors of Technology in Computer Science and Engineering
+current_job: Software Developer Engineer
+company: koolio.ai
+fields_of_interests:
+	- Backend Development
+	- DevOps
+	- AI Engineering
+technical_background:
+	- DevOps and Cloud Engineering with AWS and GCP.
+	- Backend Development in Python(Flask, FastAPI), Java(Sprint Boot) and Node.js(Express.js).
+	- LiveKit Voice Agents.
+	- AI Model Pipeline Integration Workflows.
+	- AI Model Workflow Orchestration.
+	- Realtime Distributed Systems.
+	- Frontend Development with React (both TypeScript and JavaScript).
+currently_learning:
+	- Go
+	- Kubernetes
+	- Terraform
+	- Rust
+hobbies:
+	- Playing football.
+	- Riding Motorcycle.
+	- Travelling.
+	- Photographing.
+```
+---
 ## 🔧 Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=61D9FA&labelColor=20232A"/> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=61D9FA&labelColor=20232A"/> <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=61D9FA&labelColor=20232A"/> <img src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=61D9FA&labelColor=20232A"/> <img src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=61D9FA&labelColor=20232A"/> <img src="https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=61D9FA&labelColor=20232A"/>
-<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=61D9FA&labelColor=20232A"/>
-<img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>  
-<p align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Database-SQLite3-informational?style=flat&logo=sqlite&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Database-RedisDB-informational?style=flat&logo=redis&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=61D9FA&labelColor=20232A"/>
-  <img src="https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=61D9FA&labelColor=20232A"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" height=32px width=32px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height=32px width=32px />
 
-## &#x1f4c8; Contribution Graph
-
-[![dipto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deluxe-wizard-seven&custom_title=My%20Contributions&hide_border=true&theme=monokai)](https://github.com/deluxe-wizard-seven/github-readme-activity-graph)
-
-
-## 🏆 GitHub Statistics
-
-![Dipto's Github Stats](https://github-readme-stats.vercel.app/api?username=deluxe-wizard-seven&count_private=false&theme=monokai)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deluxe-wizard-seven&layout=compact&show_icons=true&theme=monokai)](https://github.com/deluxe-wizard-seven/github-readme-streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deluxe-wizard-seven&theme=monokai)](https://github.com/deluxe-wizard-seven/github-readme-streak-stats)
-
+---
 ## ☎️ Contact me 
 
 <p align="center">
-<a href = "mailto:diptobhattacharjee6@gmail.com?subject=From Github Profile"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://www.linkedin.com/in/dipto-bhattacharjee-160a10205/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/_satirically_yours_/" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+	<a href = "mailto:diptobhattacharjee6@gmail.com?subject=From Github Profile">
+		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href = "https://www.linkedin.com/in/dipto-bhattacharjee-160a10205/">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=30px height=30px />
+	</a>
+	<a href = "https://www.instagram.com/_satirically_yours_/" >
+		<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+	</a>
 </p>
