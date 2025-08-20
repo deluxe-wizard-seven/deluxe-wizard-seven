@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, I'm [Dipto Bhattacharjee](https://dipto-bhattacharjee.netlify.app/)
 
-__*🚀 Full Stack Developer | Cloud & DevOps Enthusiast*__
+**_🚀 Full Stack Developer | Cloud & DevOps Enthusiast_**
 
 ---
 
@@ -27,24 +27,23 @@ technical_background:
   - Frontend Development with React (both TypeScript and JavaScript)
 achievements:
   - koolio.ai:
-    - Led backend & cloud infra (AWS/GCP) for a production app with 10+ core features
-    - Managed a team of 5–7 developers, ensuring on-time cross-stack delivery
-    - Architected scalable system design with high reliability & performance
-    - Built real-time collaboration features using LiveKit & Socket.IO
-    - Optimized audio workflows to achieve 99.99% uptime in production
-    - Implemented Google OAuth 2.0 & Apple SSO for secure authentication, boosting user sign-ups by 30%
-    - Designed & implemented Stripe subscription system (incl. trials) in production for smooth transactions
-    - Integrated AI/ML services (ChatGPT, MusicGen, DALL·E·2) for audio generation, summarization & noise removal
-    - Migrated ML workloads from EC2 to ECS, cutting infra costs by 40%
-    - Deployed 10+ containerized microservices on ECS, EKS & GKE with automated CI/CD
-    - Maintained CI/CD pipelines (GitHub Actions, Cloud Build, S3/CloudFront) enabling zero-downtime deployments
+      - Led backend & cloud infra (AWS/GCP) for a production app with 10+ core features
+      - Managed a team of 5–7 developers, ensuring on-time cross-stack delivery
+      - Architected scalable system design with high reliability & performance
+      - Built real-time collaboration features using LiveKit & Socket.IO
+      - Optimized audio workflows to achieve 99.99% uptime in production
+      - Implemented Google OAuth 2.0 & Apple SSO for secure authentication, boosting user sign-ups by 30%
+      - Designed & implemented Stripe subscription system (incl. trials) in production for smooth transactions
+      - Integrated AI/ML services (ChatGPT, MusicGen, DALL·E·2) for audio generation, summarization & noise removal
+      - Migrated ML workloads from EC2 to ECS, cutting infra costs by 40%
+      - Deployed 10+ containerized microservices on ECS, EKS & GKE with automated CI/CD
+      - Maintained CI/CD pipelines (GitHub Actions, Cloud Build, S3/CloudFront) enabling zero-downtime deployments
   - basel_practitioners:
-    - Owned & developed Due Diligence & Data Forecasting microservices using Spring Boot, AWS QuickSight & AWS Amplify
-    - Architected scalable backend & database schemas, ensuring maintainability & efficient data flows
-    - Optimized database performance, improving query execution & reducing latency by 50%
-    - Delivered interactive forecasting dashboards via AWS QuickSight, S3 & Athena for data-driven insights
-    - Contributed to the frontend (React, Axios & Redux), building features with React Hooks for smooth API integrations
-    - Mentored a 5-member team, driving code quality, best practices & on-time delivery
+      - Architected scalable backend & database schemas, ensuring maintainability & efficient data flows
+      - Optimized database performance, improving query execution & reducing latency by 50%
+      - Delivered interactive forecasting dashboards via AWS QuickSight, S3 & Athena for data-driven insights
+      - Contributed to frontend React, Redux & Axios, building features with React Hooks for smooth API integrations
+      - Mentored a 5-member team, driving code quality, best practices & on-time delivery
 currently_learning:
   - Go
   - Kubernetes
