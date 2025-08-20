@@ -4,13 +4,13 @@
 
 ---
 
-## 👨🏻‍💻 A little bit about me and my interests (_about_me.yaml_)
+## 👨🏻‍💻 A little bit about me and my interests _(`about_me.yaml`)_
 
 ```yaml
 name: Dipto Bhattacharjee
 education: Bachelors of Technology in Computer Science and Engineering
-current_job: Software Developer Engineer
-company: koolio.ai
+current_job: Software Engineer
+current_company: koolio.ai
 fields_of_interests:
   - Backend Development
   - DevOps
@@ -23,6 +23,15 @@ technical_background:
   - AI Model Workflow Orchestration
   - Realtime Distributed Systems
   - Frontend Development with React (both TypeScript and JavaScript)
+achievements:
+  - Led backend development & cloud infrastructure (AWS/GCP) for a production app, managing a team of 5–7 developers & ensuring on-time delivery of 10+ core features
+  - Architected scalable system design, real-time collaboration (LiveKit, Socket.IO) & high-performance audio workflows with 99.99% uptime
+  - Implemented Google OAuth 2.0, Apple SSO & Stripe subscriptions, driving a 30% boost in sign-ups & reliable transactions
+  - Integrated AI/ML services (ChatGPT, MusicGen, DALL·E·2) for audio generation, summarization & noise removal
+  - Migrated ML workloads from EC2 to ECS, cutting infra costs by 40%; deployed 10+ containerized microservices on ECS, EKS & GKE with automated CI/CD
+  - Maintained CI/CD pipelines (GitHub Actions, Cloud Build, S3/CloudFront) enabling zero-downtime deployments
+  - Optimized large datasets & database schema, reducing storage by 35% & latency by 50%
+  - Delivered interactive forecasting dashboards via AWS QuickSight, S3 & Athena for data-driven insights
 currently_learning:
   - Go
   - Kubernetes
