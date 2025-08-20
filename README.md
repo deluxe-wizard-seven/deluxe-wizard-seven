@@ -24,11 +24,16 @@ technical_background:
   - Realtime Distributed Systems
   - Frontend Development with React (both TypeScript and JavaScript)
 achievements:
-  - Led backend development & cloud infrastructure (AWS/GCP) for a production app, managing a team of 5–7 developers & ensuring on-time delivery of 10+ core features
-  - Architected scalable system design, real-time collaboration (LiveKit, Socket.IO) & high-performance audio workflows with 99.99% uptime
-  - Implemented Google OAuth 2.0, Apple SSO & Stripe subscriptions, driving a 30% boost in sign-ups & reliable transactions
+  - Led backend & cloud infra (AWS/GCP) for a production app with 10+ core features
+  - Managed a team of 5–7 developers, ensuring on-time cross-stack delivery
+  - Architected scalable system design with high reliability & performance
+  - Built real-time collaboration features using LiveKit & Socket.IO
+  - Optimized audio workflows to achieve 99.99% uptime in production
+  - Implemented Google OAuth 2.0 & Apple SSO for secure authentication, boosting user sign-ups by 30%
+  - Designed & implemented Stripe subscription system (incl. trials) in production for smooth transactions
   - Integrated AI/ML services (ChatGPT, MusicGen, DALL·E·2) for audio generation, summarization & noise removal
-  - Migrated ML workloads from EC2 to ECS, cutting infra costs by 40%; deployed 10+ containerized microservices on ECS, EKS & GKE with automated CI/CD
+  - Migrated ML workloads from EC2 to ECS, cutting infra costs by 40%
+  - Deployed 10+ containerized microservices on ECS, EKS & GKE with automated CI/CD
   - Maintained CI/CD pipelines (GitHub Actions, Cloud Build, S3/CloudFront) enabling zero-downtime deployments
   - Optimized large datasets & database schema, reducing storage by 35% & latency by 50%
   - Delivered interactive forecasting dashboards via AWS QuickSight, S3 & Athena for data-driven insights
