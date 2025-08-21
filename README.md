@@ -11,6 +11,7 @@
 
 name: Dipto Bhattacharjee
 education: Bachelors of Technology in Computer Science and Engineering
+portfolio_website: https://dipto-bhattacharjee.netlify.app/
 current_job: Software Engineer
 current_company: koolio.ai
 fields_of_interests:
@@ -20,7 +21,7 @@ fields_of_interests:
 technical_background:
   - DevOps and Cloud Engineering with AWS and GCP
   - Backend Development in Python(Flask, FastAPI), Java(Sprint Boot) and Node.js(Express.js)
-  - LiveKit Voice Agents
+  - LiveKit AI Voice Agents
   - AI Model Pipeline Integration Workflows
   - AI Model Workflow Orchestration
   - Realtime Distributed Systems
