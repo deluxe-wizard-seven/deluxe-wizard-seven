@@ -16,8 +16,8 @@ current_job: Software Engineer
 current_company: koolio.ai
 fields_of_interests:
   - Backend Development
+  - Cloud Engineering
   - DevOps
-  - AI Engineering
 technical_background:
   - DevOps and Cloud Engineering with AWS and GCP
   - Backend Development in Python(Flask, FastAPI), Java(Sprint Boot) and Node.js(Express.js)
@@ -28,23 +28,23 @@ technical_background:
   - Frontend Development with React (both TypeScript and JavaScript)
 achievements:
   - koolio.ai:
-    - Led backend & cloud infra (AWS/GCP) for a production app with 10+ core features
-    - Managed a team of 5–7 developers, ensuring on-time cross-stack delivery
-    - Architected scalable system design with high reliability & performance
-    - Built real-time collaboration features using LiveKit & Socket.IO
-    - Optimized audio workflows to achieve 99.99% uptime in production
-    - Implemented Google OAuth 2.0 & Apple SSO for secure authentication, boosting user sign-ups by 30%
-    - Designed & implemented Stripe subscription system (incl. trials) in production for smooth transactions
-    - Integrated AI/ML services (ChatGPT, MusicGen, DALL·E·2) for audio generation, summarization & noise removal
-    - Migrated ML workloads from EC2 to ECS, cutting infra costs by 40%
-    - Deployed 10+ containerized microservices on ECS, EKS & GKE with automated CI/CD
-    - Maintained CI/CD pipelines (GitHub Actions, Cloud Build, S3/CloudFront) enabling zero-downtime deployments
+      - Led backend development & cloud infrastructure (AWS/GCP) for a production app with 10+ core features
+      - Implemented Google OAuth 2.0, Apple SSO & Facebook SSO for secure authentication, boosting user sign-ups by 47%
+      - Designed & implemented Stripe subscription system (incl. trials) in production for smooth transactions
+      - Architected scalable system design & microservices ensuring high availability, reliability & performance & low latency
+      - Migrated ML workloads from AWS EC2 –> ECS, cutting infrastructure costs by 40%
+      - Automated deployments with CI/CD pipelines (GitHub Actions, Docker, Cloud Build) enabling zero-downtime deployments
+      - Built real-time collaboration features (WebSockets –> Socket.IO) with Redis, scaling from MVP to thousands of concurrent sessions
+      - Developed LiveKit-based AI Voice Agent system supporting multi-user audio rooms with live transcription & recording, designed for scalable real-time collaboration
+      - Revamped audio editing features & processing flows, delivering a 66.7% increase in performance efficiency
+      - Streamlined PostgreSQL & NoSQL (Redis, AWS DynamoDB, GCP Firestore) on AWS/GCP, reducing storage 35% & latency 50%
+      - Implemented automated RSS feed publishing for podcasts to streamline content distribution
+      - Resolved 100+ critical backend production issues, improving system stability, security & reducing average incident response time by 50%
   - basel_practitioners:
-    - Architected scalable backend & database schemas, ensuring maintainability & efficient data flows
-    - Optimized database performance, improving query execution & reducing latency by 50%
-    - Delivered interactive forecasting dashboards via AWS QuickSight, S3 & Athena for data-driven insights
-    - Contributed to frontend React, Redux & Axios, building features with React Hooks for smooth API integrations
-    - Mentored a 5-member team, driving code quality, best practices & on-time delivery
+      - Delivered interactive forecasting dashboards via AWS QuickSight, S3 & Athena for data-driven insights
+      - Architected scalable backend on Spring Boot & database schemas with MySQL, ensuring maintainability & efficient data flows
+      - Optimized database performance, improving query execution & reducing latency by 50%
+      - Contributed to frontend React, Redux & Axios, building features with React Hooks for smooth API integrations
 currently_learning:
   - Go
   - Kubernetes
