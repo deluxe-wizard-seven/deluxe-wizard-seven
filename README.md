@@ -28,18 +28,17 @@ technical_background:
   - Frontend Development with React (both TypeScript and JavaScript)
 achievements:
   - koolio.ai:
-      - Led backend development & cloud infrastructure (AWS/GCP) for a production app with 10+ core features
-      - Implemented Google OAuth 2.0, Apple SSO & Facebook SSO for secure authentication, boosting user sign-ups by 47%
-      - Designed & implemented Stripe subscription system (incl. trials) in production for smooth transactions
-      - Architected scalable system design & microservices ensuring high availability, reliability & performance & low latency
-      - Migrated ML workloads from AWS EC2 –> ECS, cutting infrastructure costs by 40%
-      - Automated deployments with CI/CD pipelines (GitHub Actions, Docker, Cloud Build) enabling zero-downtime deployments
-      - Built real-time collaboration features (WebSockets –> Socket.IO) with Redis, scaling from MVP to thousands of concurrent sessions
-      - Developed LiveKit-based AI Voice Agent system supporting multi-user audio rooms with live transcription & recording, designed for scalable real-time collaboration
-      - Revamped audio editing features & processing flows, delivering a 66.7% increase in performance efficiency
-      - Streamlined PostgreSQL & NoSQL (Redis, AWS DynamoDB, GCP Firestore) on AWS/GCP, reducing storage 35% & latency 50%
-      - Implemented automated RSS feed publishing for podcasts to streamline content distribution
-      - Resolved 100+ critical backend production issues, improving system stability, security & reducing average incident response time by 50%
+      - Led backend system architecture and cloud infrastructure (AWS and GCP) for a production app delivering 10+ core features with 99.9% uptime.
+      - Architected modular microservices with event-driven design, asynchronous task execution and efficient inter-service communication - improving system reliability and cutting API response latency by 56%.
+      - Designed and implemented Google OAuth 2.0, Apple SSO and Facebook SSO for secure authentication, boosting user onboarding by 47%.
+      - Developed a full-scale subscription management system using Stripe APIs with trials and webhooks, ensuring seamless billing and compliance.
+      - Automated deployments with CI/CD pipelines (GitHub Actions, Docker, Cloud Build) enabling zero-downtime releases and 70% faster release cycles, and 95% reduction in manual deployment errors.
+      - Migrated ML inference workloads from AWS EC2 to ECS, reducing compute overhead and cutting infrastructure costs by 40%.
+      - Engineered real-time collaboration architecture using Socket.IO, Redis Pub/Sub and WebSockets, scaling from MVP to 1,000+ concurrent sessions with low latency and high reliability.
+      - Developed LiveKit-based AI Voice Agent system supporting multi-user audio rooms with live transcription and recording, designed for fault-tolerant, scalable real-time collaboration.
+      - Revamped audio processing pipelines, implementing asynchronous task handling and caching, increasing processing throughput by 66.7%.
+      - Streamlined PostgreSQL and NoSQL databases (Redis, DynamoDB, Firestore), reducing storage footprint by 35% and latency by 50%.
+      - Resolved 100+ critical backend production issues, improving system stability, uptime and reducing average incident response time by 50%.
   - basel_practitioners:
       - Delivered interactive forecasting dashboards via AWS QuickSight, S3 & Athena for data-driven insights
       - Architected scalable backend on Spring Boot & database schemas with MySQL, ensuring maintainability & efficient data flows
